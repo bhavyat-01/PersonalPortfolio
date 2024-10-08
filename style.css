@@ -27,12 +27,16 @@ body{
 }
 
 .dividerLine{
-    width: 10rem; 
+    width: 15rem; 
     height: 0.1rem;
     background-color: #dbb210;
     margin-left: 30rem;
     margin-top: -1rem; 
 
+}
+
+.subheader{
+    font-size: 1.5rem;
 }
 
 .verticalLine {
@@ -64,7 +68,10 @@ body{
 }
 
 .link{
-    margin-top: 1rem;
-    margin-left: 10rem; 
-    border: 0.1rem solid black;
+    
+    margin-left: 9rem; 
+    font-family: "Fantasy", "Copperplate", monospace;
+    background-color: #dbb210;
+    color: black;
+    
 }
