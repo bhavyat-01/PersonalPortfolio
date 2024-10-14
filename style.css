@@ -84,3 +84,29 @@ body{
     height: 2rem;
     margin-top: -7rem; 
 }
+
+.flex-container{
+    margin-top: 2rem;
+    display: flex; 
+    justify-content: space-around; 
+}
+
+.line2{
+    width: 13rem; 
+    height: 0.1rem;
+    background-color: #dbb210;
+    margin-left: 0rem;
+    margin-top: -0.5rem;
+}
+
+#logo{
+    width: 10rem; 
+}
+
+.educationPara{
+    font-family: "Fantasy", "Copperplate", monospace;
+}
+
+.solid-black{
+    border:solid#000; 
+}
