@@ -10,7 +10,7 @@ body{
 .header{
     font-family: "Fantasy", "Copperplate", monospace;
     font-size: 2rem;
-    width: 12rem; 
+    width: 20rem; 
 }
 
 .paraText{
@@ -109,4 +109,17 @@ body{
 
 .solid-black{
     border:solid#000; 
+}
+
+.flex-container-homework{
+    display:flex; 
+    justify-content: space-evenly;
+}
+
+.hw-img{
+    width: 35rem; 
+}
+
+#frog{
+    padding-top: 2rem; 
 }
